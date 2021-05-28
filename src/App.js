@@ -74,7 +74,7 @@ const App = () => {
       ) : (
         <h3>Veri çok fazla</h3>
       )}
-    <small>Protokol https olduğu için hava durumu gözükmemekte. Local bilgisayara indirip görebilirsiniz <a href="https://github.com/ahmetsakrak-web/fetching-API">Link</a></small>
+    <small>Protokol https olduğu için hava durumu gözükmemekte. Local bilgisayara indirip görebilirsiniz <a href="https://github.com/ahmetsakrak-web/weather-flag-api">Link</a></small>
     </div>
   );
 };
